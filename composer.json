@@ -1,0 +1,12 @@
+{
+    "name": "przemek/recruit-single-occurrence",
+    "authors": [
+        {
+            "name": "Isild",
+            "email": "pimok96@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
