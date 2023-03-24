@@ -8,3 +8,7 @@ To run test you must have installed `phpunit`. To install it to the source you m
 ```
 composer install
 ```
+and then run this command to run tests:
+```
+vendor/bin/phpunit tests/
+```
